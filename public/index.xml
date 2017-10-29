@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L&#39;ours qui peint</title>
+    <link>http://example.org/</link>
+    <description>Recent content on L&#39;ours qui peint</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Oct 2017 18:00:38 +0100</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Le buisson sur la collines</title>
+      <link>http://example.org/posts/le-buisson-sur-la-colline/</link>
+      <pubDate>Sun, 29 Oct 2017 18:00:38 +0100</pubDate>
+      
+      <guid>http://example.org/posts/le-buisson-sur-la-colline/</guid>
+      <description>Huile sur toile, 33x50 cm</description>
+    </item>
+    
+  </channel>
+</rss>
