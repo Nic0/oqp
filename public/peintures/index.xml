@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>L&#39;ours qui peint</title>
-    <link>https://example.com/</link>
-    <description>Recent content on L&#39;ours qui peint</description>
+    <title>Peintures on L&#39;ours qui peint</title>
+    <link>https://example.com/peintures/</link>
+    <description>Recent content in Peintures on L&#39;ours qui peint</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 30 Oct 2017 12:54:02 +0100</lastBuildDate>
     
-	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://example.com/peintures/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -53,16 +53,6 @@ La rivière en plaine (détail)</description>
       <description>Premier tableau sur toile, représentant un paysage vallonné, basé sur un tutoriel de Kevin Hill.
 Huile sur toile 40x30 cm
 Les buissons sur la colline (détail)</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://example.com/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/contact/</guid>
-      <description>N&amp;rsquo;hésitez pas à prendre contact et m&amp;rsquo;envoyer un message. Je réponds généralement dans la journnée.
-Votre Nom Adresse Email Email obligatoire.  Message   </description>
     </item>
     
   </channel>
