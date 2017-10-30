@@ -2,21 +2,160 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>L&#39;ours qui peint</title>
-    <link>https://example.com/</link>
+    <link>http://loursquipeint.com/</link>
     <description>Recent content on L&#39;ours qui peint</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Oct 2017 12:54:02 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 30 Oct 2017 15:37:26 +0100</lastBuildDate>
     
-	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://loursquipeint.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Meules, fin de l&#39;éte</title>
+      <link>http://loursquipeint.com/peintures/018-meules-fin-de-l-ete/</link>
+      <pubDate>Mon, 30 Oct 2017 15:37:26 +0100</pubDate>
+      
+      <guid>http://loursquipeint.com/peintures/018-meules-fin-de-l-ete/</guid>
+      <description>Claude Monet, Meules, fin de l&amp;rsquo;été, musée d&amp;rsquo;Orsay à Paris, 1891
+Huile sur toile</description>
+    </item>
+    
+    <item>
+      <title>Les meules, effet de gelée blanche</title>
+      <link>http://loursquipeint.com/peintures/017-les-meules-effet-de-gelee-blanche/</link>
+      <pubDate>Mon, 30 Oct 2017 15:35:15 +0100</pubDate>
+      
+      <guid>http://loursquipeint.com/peintures/017-les-meules-effet-de-gelee-blanche/</guid>
+      <description>Claude Monet, Les meules, effet de gelée blanche (W1215), 1889, Hill-Stead Museum, Farmington, Etats-Unis.
+Huile sur toile</description>
+    </item>
+    
+    <item>
+      <title>Meules, fin de l&#39;été</title>
+      <link>http://loursquipeint.com/peintures/016-meules-fin-de-l-ete/</link>
+      <pubDate>Mon, 30 Oct 2017 15:32:43 +0100</pubDate>
+      
+      <guid>http://loursquipeint.com/peintures/016-meules-fin-de-l-ete/</guid>
+      <description>Claude Monet, Meules, fin de l&amp;rsquo;été, 1891, Institut d&amp;rsquo;art de Chicago.
+Huile sur toile</description>
+    </item>
+    
+    <item>
+      <title>Meules, effet de neige le matin</title>
+      <link>http://loursquipeint.com/peintures/015-meules-effet-de-neige-le-matin/</link>
+      <pubDate>Mon, 30 Oct 2017 15:30:27 +0100</pubDate>
+      
+      <guid>http://loursquipeint.com/peintures/015-meules-effet-de-neige-le-matin/</guid>
+      <description>Claude Monet, Meules, effet de neige, le matin (W1276), 1891, Los Angeles (USA).
+Huile sur toile</description>
+    </item>
+    
+    <item>
+      <title>Meules, fin de l&#39;éte</title>
+      <link>http://loursquipeint.com/peintures/014-meules-fin-de-l-ete/</link>
+      <pubDate>Mon, 30 Oct 2017 15:27:26 +0100</pubDate>
+      
+      <guid>http://loursquipeint.com/peintures/014-meules-fin-de-l-ete/</guid>
+      <description>Claude Monet, Meules, fin de l&amp;rsquo;été, musée d&amp;rsquo;Orsay à Paris, 1891
+Huile sur toile</description>
+    </item>
+    
+    <item>
+      <title>Meules, derniers rayons de soleil</title>
+      <link>http://loursquipeint.com/peintures/013-meules-derniers-rayons-de-soleil/</link>
+      <pubDate>Mon, 30 Oct 2017 15:24:59 +0100</pubDate>
+      
+      <guid>http://loursquipeint.com/peintures/013-meules-derniers-rayons-de-soleil/</guid>
+      <description>Claude Monet, Meules, derniers rayons de soleil (W1272), 1890, collection privée.
+Huile sur toile</description>
+    </item>
+    
+    <item>
+      <title>Peupliers au bord de l&#39;epte</title>
+      <link>http://loursquipeint.com/peintures/012-peupliers-au-bord-de-l-epte/</link>
+      <pubDate>Mon, 30 Oct 2017 15:21:04 +0100</pubDate>
+      
+      <guid>http://loursquipeint.com/peintures/012-peupliers-au-bord-de-l-epte/</guid>
+      <description>Claude Monet, Peupliers au bord de l&amp;rsquo;epte, 1891, National Galleries of Scotland en Ecosse.
+Huile sur toile</description>
+    </item>
+    
+    <item>
+      <title>Deauville, marée basse</title>
+      <link>http://loursquipeint.com/peintures/011-deauville-maree-basse/</link>
+      <pubDate>Mon, 30 Oct 2017 15:12:12 +0100</pubDate>
+      
+      <guid>http://loursquipeint.com/peintures/011-deauville-maree-basse/</guid>
+      <description>Deauville, marée basse, Eugène Boudin, 1863
+Huile sur toile</description>
+    </item>
+    
+    <item>
+      <title>Statue derrière l&#39;étang</title>
+      <link>http://loursquipeint.com/peintures/010-statue-derriere-l-etang/</link>
+      <pubDate>Mon, 30 Oct 2017 15:04:45 +0100</pubDate>
+      
+      <guid>http://loursquipeint.com/peintures/010-statue-derriere-l-etang/</guid>
+      <description>Huile sur toile</description>
+    </item>
+    
+    <item>
+      <title>Le Pavé De Chailly</title>
+      <link>http://loursquipeint.com/peintures/009-le-pave-de-chailly/</link>
+      <pubDate>Mon, 30 Oct 2017 15:02:11 +0100</pubDate>
+      
+      <guid>http://loursquipeint.com/peintures/009-le-pave-de-chailly/</guid>
+      <description>Claude Monet, Le Pavé de Chailly, 1865, Lieu ?
+Huile sur toile</description>
+    </item>
+    
+    <item>
+      <title>Champs de coquelicots</title>
+      <link>http://loursquipeint.com/peintures/008-champs-de-coquelicots/</link>
+      <pubDate>Mon, 30 Oct 2017 14:58:33 +0100</pubDate>
+      
+      <guid>http://loursquipeint.com/peintures/008-champs-de-coquelicots/</guid>
+      <description>Les Coquelicots, Claude Monet, 1873, Musée d&amp;rsquo;Orsay à Paris
+Huile sur toile</description>
+    </item>
+    
+    <item>
+      <title>Le parlement, reflets sur la tamise</title>
+      <link>http://loursquipeint.com/peintures/007-le-parlement-reflets-sur-la-tamise/</link>
+      <pubDate>Mon, 30 Oct 2017 14:55:42 +0100</pubDate>
+      
+      <guid>http://loursquipeint.com/peintures/007-le-parlement-reflets-sur-la-tamise/</guid>
+      <description>Londres. Le Parlement. Reflets sur la Tamise (W 1605), 1905, Musée Marmottan à Paris
+Huile sur toile</description>
+    </item>
+    
+    <item>
+      <title>L&#39;été</title>
+      <link>http://loursquipeint.com/peintures/006-ete/</link>
+      <pubDate>Mon, 30 Oct 2017 13:39:50 +0100</pubDate>
+      
+      <guid>http://loursquipeint.com/peintures/006-ete/</guid>
+      <description>Claude Monet, L&amp;rsquo;été, 1874, Alte Nationalgalerie à Berlin
+Huile sur toile</description>
+    </item>
+    
+    <item>
+      <title>Nymphéas</title>
+      <link>http://loursquipeint.com/peintures/005-nympheas/</link>
+      <pubDate>Mon, 30 Oct 2017 13:37:38 +0100</pubDate>
+      
+      <guid>http://loursquipeint.com/peintures/005-nympheas/</guid>
+      <description>Claude Monet, 1907, musée des beaux-arts de Houston
+Huile sur toile</description>
+    </item>
+    
+    <item>
       <title>Bassin d&#39;Argenteuil</title>
-      <link>https://example.com/peintures/004-bassin-d-argenteuil/</link>
+      <link>http://loursquipeint.com/peintures/004-bassin-d-argenteuil/</link>
       <pubDate>Mon, 30 Oct 2017 12:54:02 +0100</pubDate>
       
-      <guid>https://example.com/peintures/004-bassin-d-argenteuil/</guid>
+      <guid>http://loursquipeint.com/peintures/004-bassin-d-argenteuil/</guid>
       <description>Copie du tableau Bassin d&amp;rsquo;argenteuil de Claude Monet, 1872, visible au musée d&amp;rsquo;Orsay à Paris. Ma première copie de tableau, sans suivre un tutoriel.
 Huile sur toile
 Bassin d&amp;rsquo;argenteuil (détail)
@@ -25,20 +164,20 @@ Bassin d&amp;rsquo;argenteuil (détail)</description>
     
     <item>
       <title>Le chat dans le jardin</title>
-      <link>https://example.com/peintures/003-le-chat-dans-le-jardin/</link>
+      <link>http://loursquipeint.com/peintures/003-le-chat-dans-le-jardin/</link>
       <pubDate>Mon, 30 Oct 2017 12:19:25 +0100</pubDate>
       
-      <guid>https://example.com/peintures/003-le-chat-dans-le-jardin/</guid>
+      <guid>http://loursquipeint.com/peintures/003-le-chat-dans-le-jardin/</guid>
       <description>Fond du jardin à la sortie de l&amp;rsquo;hivers.
 Huile sur toile</description>
     </item>
     
     <item>
       <title>La Rivière en Plaine</title>
-      <link>https://example.com/peintures/002-la-riviere-en-plaine/</link>
+      <link>http://loursquipeint.com/peintures/002-la-riviere-en-plaine/</link>
       <pubDate>Mon, 30 Oct 2017 09:33:46 +0100</pubDate>
       
-      <guid>https://example.com/peintures/002-la-riviere-en-plaine/</guid>
+      <guid>http://loursquipeint.com/peintures/002-la-riviere-en-plaine/</guid>
       <description>Rivière avec fond montagneux, basé sur un tutoriel de Kevin Hill.
 Huile sur toile
 La rivière en plaine (détail)</description>
@@ -46,10 +185,10 @@ La rivière en plaine (détail)</description>
     
     <item>
       <title>Les buissons sur la colline</title>
-      <link>https://example.com/peintures/001-le-buisson-sur-la-colline/</link>
+      <link>http://loursquipeint.com/peintures/001-le-buisson-sur-la-colline/</link>
       <pubDate>Sun, 29 Oct 2017 18:00:38 +0100</pubDate>
       
-      <guid>https://example.com/peintures/001-le-buisson-sur-la-colline/</guid>
+      <guid>http://loursquipeint.com/peintures/001-le-buisson-sur-la-colline/</guid>
       <description>Premier tableau sur toile, représentant un paysage vallonné, basé sur un tutoriel de Kevin Hill.
 Huile sur toile 40x30 cm
 Les buissons sur la colline (détail)</description>
@@ -57,10 +196,10 @@ Les buissons sur la colline (détail)</description>
     
     <item>
       <title>Contact</title>
-      <link>https://example.com/contact/</link>
+      <link>http://loursquipeint.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/contact/</guid>
+      <guid>http://loursquipeint.com/contact/</guid>
       <description>N&amp;rsquo;hésitez pas à prendre contact et m&amp;rsquo;envoyer un message. Je réponds généralement dans la journnée.
 Votre Nom Adresse Email Email obligatoire.  Message   </description>
     </item>

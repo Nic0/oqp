@@ -1,13 +1,13 @@
 title = "L'ours qui peint"
-baseURL = "https://example.com"
+baseURL = "http://loursquipeint.com"
 languageCode = "en-us"
 theme = "ananke"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "fr"
 SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
-googleAnalytics = ""
+Paginate = 10 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = "UA-75052939-2"
 enableRobotsTXT = true
 
 [sitemap]
@@ -28,3 +28,4 @@ enableRobotsTXT = true
   background_color_class = "bg-navy"
   featured_image = "/img/header.jpg"
   read_more_copy = "Voir tableau"
+  env="production"

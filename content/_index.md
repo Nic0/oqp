@@ -1,4 +1,4 @@
-Peintre amateur de style impressionniste, vivant dans la région de Caen, Normandie, sur le secteur d'Argence.
+Peintre amateur de style impressionniste, vivant dans la région de Caen, Normandie, sur le secteur d'Argences.
 
 Le site est une présentation de mes peintures.
 
