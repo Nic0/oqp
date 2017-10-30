@@ -3,16 +3,17 @@ title: "Les buissons sur la colline"
 date: 2017-10-29T18:00:38+01:00
 draft: false
 layout: "tableau"
-featured_image: "/img/collines.jpg"
-size: "33x50 cm"
-price: "20 €"
+featured_image: "/img/001/tableau.jpg"
+size: "40x30 cm"
+price: "30 €"
+status: "En vente"
 type: "huile sur toile"
 ---
 
 Premier tableau sur toile, représentant un paysage vallonné, basé sur un tutoriel de Kevin Hill.
 
-![](/img/collines.jpg)
-*Huile sur toile 33x50 cm*
+![](/img/001/tableau.jpg)
+*Huile sur toile 40x30 cm*
 
-![](/img/collines-detail.jpg)
+![](/img/001/detail.jpg)
 *Les buissons sur la colline (détail)*
