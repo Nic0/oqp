@@ -30,6 +30,6 @@ Frais de livraison
 
 Les tableaux peuvent être vu sur Argences (à côté de Caen, Normandie), mais peuvent être envoyé en france métropolitaine.
 
-Des précisions sur les frais de port seront mis sur le site ultérieurement.
+Le prix des toiles sont sans les frais de livraisons. Des précisions sur les frais de port seront mis sur le site ultérieurement.
 
 Les frais de ports sont offert à partir de 100€.
