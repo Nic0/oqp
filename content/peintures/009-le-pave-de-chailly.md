@@ -10,7 +10,7 @@ type: "Huile sur toile"
 status: "En vente"
 ---
 
-Claude Monet, Le Pavé de Chailly, 1865, Lieu ?
+Copie du tableau "Le Pavé de Chailly" de Claude Monet, Le Pavé de Chailly, 1865. Je n'ai pas retrouvé le lieu où se tient l'original.
 
 ![](/img/009/tableau.jpg)
 *Huile sur toile*

@@ -10,7 +10,7 @@ type: "Huile sur toile"
 status: "En vente"
 ---
 
-Londres. Le Parlement. Reflets sur la Tamise (W 1605), 1905, Musée Marmottan à Paris
+Copie du tableau "Londres. Le Parlement. Reflets sur la Tamise" (W 1605) de Claude Monet, 1905. Original visible au musée Marmottan à Paris
 
 ![](/img/007/tableau.jpg)
 *Huile sur toile*

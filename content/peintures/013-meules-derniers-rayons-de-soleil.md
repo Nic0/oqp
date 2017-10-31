@@ -10,7 +10,7 @@ type: "Huile sur toile"
 status: "En vente"
 ---
 
-Claude Monet, Meules, derniers rayons de soleil (W1272), 1890, collection privée.
+Copie du tableau "Meules, derniers rayons de soleil", (W1272) de Claude Monet, 1890. L'original fait parti d'une collection privée.
 
 ![](/img/013/tableau.jpg)
 *Huile sur toile*

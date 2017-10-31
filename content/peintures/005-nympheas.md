@@ -10,7 +10,7 @@ type: "Huile sur toile"
 status: "En vente"
 ---
 
-Claude Monet, 1907, musée des beaux-arts de Houston
+Copie du tableau "Nymphéas" de Claude Monet, 1907, l'original est visible au musée des beaux-arts de Houston
 
 ![](/img/005/tableau.jpg)
 *Huile sur toile*

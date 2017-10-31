@@ -10,7 +10,7 @@ type: "Huile sur toile"
 status: "Pas à vendre"
 ---
 
-Deauville, marée basse, Eugène Boudin, 1863
+Copie de "Deauville, marée basse" d'Eugène Boudin, 1863.
 
 ![](/img/011/tableau.jpg)
 *Huile sur toile*

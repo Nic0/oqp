@@ -10,7 +10,7 @@ type: "Huile sur toile"
 status: "En vente"
 ---
 
-Claude Monet, Meules, effet de neige, le matin (W1276), 1891, Los Angeles (USA).
+Copie du tableau "Meules, effet de neige, le matin" de Claude Monet (W1276), 1891. L'original est visible à Los Angeles (USA).
 
 ![](/img/015/tableau.jpg)
 *Huile sur toile*

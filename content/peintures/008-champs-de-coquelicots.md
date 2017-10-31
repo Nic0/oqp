@@ -9,7 +9,7 @@ price: "N/A"
 type: "Huile sur toile"
 status: "Pas à vendre"
 ---
-Les Coquelicots, Claude Monet, 1873, Musée d'Orsay à Paris
+Copie du tableau "Les Coquelicots" de Claude Monet, 1873. Original visible au musée d'Orsay à Paris
 
 ![](/img/008/tableau.jpg)
 *Huile sur toile*

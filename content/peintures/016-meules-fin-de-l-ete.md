@@ -10,7 +10,7 @@ type: "Huile sur toile"
 status: "En vente"
 ---
 
-Claude Monet, Meules, fin de l'été, 1891, Institut d'art de Chicago.
+Copie du tableau "Meules, fin de l'été" de Claude Monet, 1891. L'original est visible à l'institut d'art de Chicago.
 
 ![](/img/016/tableau.jpg)
 *Huile sur toile*

@@ -10,7 +10,7 @@ type: "Huile sur toile"
 status: "En vente"
 ---
 
-Claude Monet, Les meules, effet de gelée blanche (W1215), 1889, Hill-Stead Museum, Farmington, Etats-Unis.
+Copie du tableau "Les meules, effet de gelée blanche" (W1215), 1889. Tableau visible au Hill-Stead Museum, Farmington, Etats-Unis.
 
 ![](/img/017/tableau.jpg)
 *Huile sur toile*

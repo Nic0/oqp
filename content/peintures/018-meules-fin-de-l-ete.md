@@ -10,7 +10,7 @@ type: "Huile sur toile"
 status: "Pas à vendre"
 ---
 
-Claude Monet, Meules, fin de l'été, musée d'Orsay à Paris, 1891
+Copie du tableau " Meules, fin de l'été" de Claude Monet, 1891. L'original est visible au musée d'Orsay à Paris.
 
 ![](/img/018/tableau.jpg)
 *Huile sur toile*
