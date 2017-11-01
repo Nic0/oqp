@@ -18,7 +18,7 @@ enableRobotsTXT = true
 [params]
   favicon = ""
   description = "Bienvenue dans la grotte de l'ours peintre"
-  facebook = ""
+  facebook = "https://www.facebook.com/oursquipeint/"
   twitter = ""
   instagram = ""
   youtube = ""
