@@ -4,7 +4,7 @@ date: 2017-10-30T15:12:12+01:00
 draft: false
 layout: "tableau"
 featured_image: "/img/011/tableau.jpg"
-size: "33x46 cm"
+size: "46x33 cm"
 price: "Estimation 120€ avec cadre"
 type: "Huile sur toile"
 status: "Pas à vendre"

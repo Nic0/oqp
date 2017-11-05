@@ -4,7 +4,7 @@ date: 2017-10-30T12:54:02+01:00
 draft: false
 layout: "tableau"
 featured_image: "/img/004/tableau.jpg"
-size: "54x38 cm"
+size: "38x54 cm"
 price: "N/A"
 type: "Huile sur toile"
 status: "Reservé"

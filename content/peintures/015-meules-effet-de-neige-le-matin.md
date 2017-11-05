@@ -4,7 +4,7 @@ date: 2017-10-30T15:30:27+01:00
 draft: false
 layout: "tableau"
 featured_image: "/img/015/tableau.jpg"
-size: "61x46 cm"
+size: "46x61 cm"
 price: "100 €"
 type: "Huile sur toile"
 status: "En vente"

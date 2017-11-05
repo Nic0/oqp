@@ -4,7 +4,7 @@ date: 2017-10-30T13:37:38+01:00
 draft: false
 layout: "tableau"
 featured_image: "/img/005/tableau.jpg"
-size: "33x46 cm"
+size: "46x33 cm"
 price: "30 €"
 type: "Huile sur toile"
 status: "En vente"

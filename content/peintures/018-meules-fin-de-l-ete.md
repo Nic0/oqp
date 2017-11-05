@@ -4,7 +4,7 @@ date: 2017-10-30T15:37:26+01:00
 draft: false
 layout: "tableau"
 featured_image: "/img/018/tableau.jpg"
-size: "73x50 cm"
+size: "50x73 cm"
 price: "N/A"
 type: "Huile sur toile"
 status: "Pas à vendre"
