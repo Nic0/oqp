@@ -14,6 +14,8 @@ Inspiré par le tableau de Claude Monet, de la série bras de Seine. Quelques in
 
 Les couleurs pastels de la partie droite, avec un rendu brumeux donne une atmosphère reposante, mais quelques sueurs froides pour le peindre, un faible contraste avec des couleurs clair n'est pas facile. Les bords des arbres sont fondu et adouci pour rendre le brouillard.
 
+Chaque tableau de la série a sa propre atmosphère, et c'est tout qui doit être appréhendé de nouveau comme si c'était le 1er. C'est si difficile, mais tellement captivant d'essayer de capturer cette lumière, même si j'en suis loin.
+
 ![](/img/022/tableau.jpg)
 *Huile sur toile, 50x50 cm*
 

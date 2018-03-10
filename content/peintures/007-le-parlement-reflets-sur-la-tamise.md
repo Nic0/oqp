@@ -7,7 +7,7 @@ featured_image: "/img/007/tableau.jpg"
 size: "50x61 cm"
 price: "80 €"
 type: "Huile sur toile"
-status: "En vente"
+status: "Indisponible"
 ---
 
 Copie du tableau "Londres. Le Parlement. Reflets sur la Tamise" (W 1605) de Claude Monet, 1905. Original visible au musée Marmottan à Paris

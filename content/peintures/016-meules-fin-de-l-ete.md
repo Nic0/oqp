@@ -7,7 +7,7 @@ featured_image: "/img/016/tableau.jpg"
 size: "38x61 cm"
 price: "100 €"
 type: "Huile sur toile"
-status: "En vente"
+status: "Indisponible"
 ---
 
 Copie du tableau "Meules, fin de l'été" de Claude Monet, 1891. L'original est visible à l'institut d'art de Chicago.

@@ -5,7 +5,7 @@ draft: false
 layout: "tableau"
 featured_image: "/img/012/tableau.jpg"
 size: "50x50 cm"
-price: "40 €"
+price: "50 €"
 type: "Huile sur toile"
 status: "En vente"
 ---
